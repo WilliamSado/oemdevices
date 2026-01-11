@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="oemdevice"
+          fetch="https://github.com/kleeui"
+          sync-c="true"
+          sync-tags="false"
+          review=".."
+          revision="klee-ui-v1.0" />
+
+  <include name="snippets/xiaomi-sm8350.xml" />
+
+</manifest>
